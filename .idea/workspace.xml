@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86f7c4aa-27e3-4305-a197-b6c31968531f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codecata.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/src/main/java/com/sparta/springprepare/SpringPrepareApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-prepare/src/test/java/com/sparta/springprepare/SpringPrepareApplicationTests.java" afterDir="false" />
+    <list default="true" id="86f7c4aa-27e3-4305-a197-b6c31968531f" name="변경" comment="11번 문제 clear">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +28,9 @@
     "accountId": "b9dc73c6-4246-48e9-ac11-472209b6d7cd"
   }
 }]]></component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="없음" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -83,11 +70,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727657240004</updated>
-      <workItem from="1727657241712" duration="510000" />
+      <workItem from="1727657241712" duration="2855000" />
     </task>
+    <task id="LOCAL-00001" summary="11번 문제 clear">
+      <option name="closed" value="true" />
+      <created>1727658033140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727658033140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11번 문제 clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="11번 문제 clear" />
   </component>
 </project>
