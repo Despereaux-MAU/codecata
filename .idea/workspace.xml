@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86f7c4aa-27e3-4305-a197-b6c31968531f" name="변경" comment="12번 문제 clear">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="86f7c4aa-27e3-4305-a197-b6c31968531f" name="변경" comment="13번 문제 clear">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
@@ -16,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -41,7 +41,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -69,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1727657240004</updated>
       <workItem from="1727657241712" duration="2899000" />
-      <workItem from="1727742710657" duration="1663000" />
+      <workItem from="1727742710657" duration="2006000" />
+      <workItem from="1728000942170" duration="1807000" />
     </task>
     <task id="LOCAL-00001" summary="11번 문제 clear">
       <option name="closed" value="true" />
@@ -87,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727660954462</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="13번 문제 clear">
+      <option name="closed" value="true" />
+      <created>1727744664662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727744664662</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11번 문제 clear" />
     <MESSAGE value="12번 문제 clear" />
-    <option name="LAST_COMMIT_MESSAGE" value="12번 문제 clear" />
+    <MESSAGE value="13번 문제 clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="13번 문제 clear" />
   </component>
 </project>
