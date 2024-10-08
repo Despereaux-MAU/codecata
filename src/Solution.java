@@ -1,10 +1,18 @@
+import java.util.ArrayList;
+import java.util.List;
 class Solution {
-    // 함수 solution은 정수 x와 자연수 n을 입력 받아, x부터 시작해 x씩 증가하는 숫자를 n개 지니는 리스트를 리턴해야 합니다.
-    public long[] solution(long x, int n) {
-        long[] answer = new long[n];
-        for (int i = 0 ; i < n ; i++) {
-            answer[i] = x * (i + 1);
+    public int[] solution(long n) {
+        List<Integer> answer = new ArrayList<Integer>((int)(Math.log10(n) + 1));
+        String num = Long.toString(n);
+
+        for (int i = num.length() ; i >= 1 ; i--) {
+            answer.add(Character.getNumericValue(num.charAt(i - 1)));
         }
-        return answer;
+
+        int[] arr = new int[answer.size()];
+        for (int j = 0 ; j < answer.size() ; j++) {
+            arr[j] = answer.get(j);
+        }
+        return arr;
     }
 }
